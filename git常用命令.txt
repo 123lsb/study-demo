@@ -10,6 +10,7 @@ git commit	提交暂存区到本地仓库。
 git push	上传远程代码并合并
 git pull	下载远程代码并合并
 git blame <file> 查看指定文件的修改
+git merge 来源分支 合并分支
 推送步骤：
 git branch 查看当前分支
 git status	查看仓库当前的状态，显示有变更的文件
